@@ -1,5 +1,6 @@
 # Makefile
 
+
 HUGO_VERSION=latest
 DOCKER_HUGO_IMAGE=ghcr.io/gohugoio/hugo:${HUGO_VERSION}
 
